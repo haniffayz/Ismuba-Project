@@ -32,7 +32,7 @@ export const quiz = {
         answers: [
           'Al - munafiqun ayat 10',
           'Al - muzammil ayat 5', 
-          "Al = mu'minun ayat 39", 
+          "Al - mu'minun ayat 39", 
           'Ar - rahman ayat 56'
         ],
         correctAnswer: "Al = mu'minun ayat 39",
